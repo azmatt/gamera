@@ -1,0 +1,4 @@
+The database is a AWS DynamoDB table with 2 fields.
+
+A Partition key: tweet_id (Number)
+A Sort key: distro_list (Number)
